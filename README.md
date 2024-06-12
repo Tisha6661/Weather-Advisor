@@ -1,4 +1,4 @@
-# Financial Data Fetcher
+# Weather Data Fetcher
 
 This Python script demonstrates a simple system for fetching weather reports based on user queries and generating keywords related to weather using language models. It also showcases an access control system using Opal for enforcing permissions based on user roles.
 
