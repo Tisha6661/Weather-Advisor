@@ -1,0 +1,4 @@
+gradio==2.3.7
+haystack==0.10.0
+opal==0.4.0
+requests==2.26.0
